@@ -10,7 +10,7 @@ interface PROPS {
     speed:string,
     id:number,
 }
-const Card: FC<PROPS> = ({title,description,image,id,link,speed}) => {
+const Card: FC<PROPS> = () => {
     return (
         <div>
             <h1>card</h1>
