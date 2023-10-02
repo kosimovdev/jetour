@@ -1,4 +1,3 @@
-import {data} from "autoprefixer";
 
 const Models = () => {
     // const {models} = data;
@@ -11,7 +10,7 @@ const Models = () => {
                     <div className='w-[84px] h-[84px] bg-[#E6E6E6] rounded-[12px] grid place-content-center'>
                         <a href="#">
                             <svg width="41" height="41" viewBox="0 0 41 41" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M1.61525 39.3848L38.3848 2.61522M38.3848 2.61522H1.61525M38.3848 2.61522V39.3848" stroke="#1A1A1A" stroke-width="4"/>
+                                <path d="M1.61525 39.3848L38.3848 2.61522M38.3848 2.61522H1.61525M38.3848 2.61522V39.3848" stroke="#1A1A1A" strokeWidth="4"/>
                             </svg>
                         </a>
                     </div>
