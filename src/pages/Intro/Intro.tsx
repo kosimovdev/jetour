@@ -10,7 +10,7 @@ const Intro = () => {
                     <Play/>
 
                 </div>
-                <video className="yt-bg-video d-sm-block none rounded-[12px] mt-20" preload width="100%" controls height="740" autoPlay loop muted>
+                <video className="yt-bg-video d-sm-block none rounded-[12px] mt-20"  width="100%" controls height="740" autoPlay loop muted>
                     <source src="https://jetourglobal.com//videos/about/video/x70.mp4" type="video/mp4"/>
                 </video>
 

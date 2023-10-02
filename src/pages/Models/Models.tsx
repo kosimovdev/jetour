@@ -1,7 +1,7 @@
 import {data} from "autoprefixer";
 
 const Models = () => {
-    const {models} = data;
+    // const {models} = data;
     return (
         <section id='models' className='pt-[120px]'>
             <div className="container mx-auto">
@@ -19,9 +19,7 @@ const Models = () => {
                 <div className="models-box mt-[192px]">
                     <h1 className='text-[#666] text-[26px] mb-5'>MODELS</h1>
                     <div className="line border-t-[1px] border-[#CCC]"></div>
-                    <div className="box">
 
-                    </div>
                 </div>
             </div>
         </section>
