@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: michroma, serif !important;
+}
+
+
+@font-face {
+    font-family: michroma;
+    src: url('./assets/Fonts/Michroma-Regular.ttf');
+}
+
+
